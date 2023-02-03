@@ -22,7 +22,7 @@
 <br>
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%green) ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=MySQL&logoColor=%23F7DF1E)
-
+<br>
 # 📊 GitHub Stats:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=bhavinondhiya&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
@@ -31,11 +31,12 @@
 
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=bhavinondhiya&theme=gotham&area=true) -->
 ![Bhavin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhavinondhiya&theme=gotham&area=true)
-
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhavinondhiya&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
+<br>
 # Leetcode Stats 🏆
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhavinondhiya0?theme=gotham=Ubuntu%20Mono&ext=heatmap)
 
+<br>
