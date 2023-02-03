@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bhavin Ondhiya</h1>
+<h1 align="center">Hi 👋, I'm Future SDE at Amazon , Mr. Bhavin Ondhiya 😄</h1>
 
 
 - 💻 I'm a extra influenced learner in Mern Stack Developement
@@ -16,10 +16,10 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERNSTACK DEVELOPER, DSA, ML ENTHUSIAST, COMPETITIVE PROGRAMING)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+Developer;DSA;DevOps;Competitive+Programming)](https://git.io/typing-svg)
 
 <img align="center" width="400" src="mygif.gif">
-
+<br>
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%green) ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=MySQL&logoColor=%23F7DF1E)
 
