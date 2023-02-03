@@ -25,8 +25,8 @@
 
 # 📊 GitHub Stats:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=bhavinondhiya&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bhavinondhiya&theme=midnight" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=bhavinondhiya&count_private=true&show_icons=true&theme=modernist" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bhavinondhiya&theme=modernist" width="48%" >
 <br>
 
 <!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=bhavinondhiya&theme=gotham&area=true) -->
