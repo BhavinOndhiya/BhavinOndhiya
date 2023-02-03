@@ -25,19 +25,15 @@
 
 # 📊 GitHub Stats:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=GeniusNirmit&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=GeniusNirmit&theme=gotham" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=bhavinondhiya&count_private=true&show_icons=true&theme=gotham" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bhavinondhiya&theme=gotham" width="48%" >
 <br>
 
-<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=GeniusNirmit&theme=gotham&area=true) -->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GeniusNirmit&theme=gotham&area=true)
+<!-- ![github graph](https://activity-graph.herokuapp.com/graph?username=bhavinondhiya&theme=gotham&area=true) -->
+![Bhavin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhavinondhiya&theme=gotham&area=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhavinondhiya&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-
-# 📈 Activity
-[![Bhavin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhavinondhiya&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/bhavinondhiya/github-readme-activity-graph)
 
 # Leetcode Stats 🏆
 
