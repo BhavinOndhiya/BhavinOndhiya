@@ -4,7 +4,7 @@
 
 - 💻 I'm a extra influenced learner in Mern Stack Developement
 - 🤔 I’m Looking forward to explore around various projects in Mern Stack Developement
-- 🌱 I'm Also SOlving Various Problems on coding platforms such as Leetcode,Codeforce,Codechef,etc.
+- 🌱 I'm Also Solving Various Problems on coding platforms such as Leetcode,Codeforce,Codechef,etc.
 - 😄 “The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.”
 
 
