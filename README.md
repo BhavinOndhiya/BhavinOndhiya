@@ -33,6 +33,3 @@
 # Leetcode Stats 🏆
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhavinondhiya0?theme=gotham=Ubuntu%20Mono&ext=heatmap)
-
-## SNAKE SNAKE SNAKE🐍
-<p align='center'><img src='https://raw.githubusercontent.com/bhavinondhiya/bhavinondhiya/output/github-contribution-grid-snake.svg'></p>
