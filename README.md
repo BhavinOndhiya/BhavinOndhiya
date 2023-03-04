@@ -31,5 +31,4 @@
 
 
 # Leetcode Stats 🏆
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhavinondhiya0?theme=gotham=Ubuntu%20Mono&ext=heatmap)
