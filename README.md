@@ -1,6 +1,5 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinondhiya&label=Profile%20views&color=d400ff&style=flat" alt="bhavinondhiya" /> </p>
 <h1 align="center">Hi 👋, I'm Future SDE at Amazon , Mr. Bhavin Ondhiya 😄</h1>
-
 
 - 💻 I'm a extra influenced learner in Mern Stack Developement
 - 🤔 I’m Looking forward to explore around various projects in Mern Stack Developement
@@ -23,12 +22,18 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhavinondhiya&theme=gotham&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinondhiya&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavinondhiya&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="99%">
-    
+<div align="left" width="35%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavinondhiya&theme=gotham&custom_title=Previous%2030%20Days%20GitHub%20Contributions" width="95%">
 </a>
+<details>
+<summary> <strong> Show more Stats </strong> </summary>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavinondhiya&theme=gotham" width="100%">
+</details>
+</div>
+</a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bhavinondhiya&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
 
 # Leetcode Stats 🏆
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhavinondhiya0?theme=gotham=Ubuntu%20Mono&ext=heatmap)
