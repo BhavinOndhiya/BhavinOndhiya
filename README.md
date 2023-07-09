@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bhavin_ondhiya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavin-ondhiya-1636b5223) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bhavin_ondhiya) [![E-mail](https://img.shields.io/badge/email-%231DA1F2.svg?logo=email&logoColor=white)](https://gmail.com/bhavinondhiya0@gmail.com/) [![Website](https://img.shields.io/badge/website-%231DA1F2.svg?logo=email&logoColor=white)](https://ondhiyabhavin.netlify.app/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,nodejs,java,javascript,mongodb,git,github,postman,express,docker,vscode,mysql,powershell,j&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,nodejs,java,javascript,mongodb,git,github,postman,express,docker,vscode,mysql,powershell,j&perline=8)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
