@@ -17,7 +17,11 @@
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%green) ![MySQL](https://img.shields.io/badge/MySQL-%23323330.svg?style=for-the-badge&logo=MySQL&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-%2300599C.svg?style=for-the-badge&logo=PHP&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Docker](https://img.shields.io/badge/docker-%23ED8B00.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-<img src="https://skillicons.dev/icons?i=aws,c,c++,docker,express,git,github,java,js,mongodb,nodejs,Graphdb,Neo4j,postman,,vscode" width="100%">
+# My Tech Weapons
+https://skillicons.dev/icons?i=aws,c,cpp,docker,express,git,github,java,js,mongodb,nodejs,Graphdb,Neo4j,postman,,vscode&perline=3)](https://skillicons.dev)
+
+<img src="https://skillicons.dev/icons?
+i=aws,c,cpp,docker,express,git,github,java,js,mongodb,nodejs,Graphdb,Neo4j,postman,,vscode" width="100%">
 
 
 # 📊 GitHub Stats:
