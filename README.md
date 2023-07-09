@@ -19,10 +19,6 @@
 
 
 # 📊 GitHub Stats:
-<img  src="https://github-readme-stats-bhavinondhiya.vercel.app/api?username=bhavinondhiya&count_private=true&show_icons=true&theme=gotham" width="48%" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=bhavinondhiya&theme=gotham" width="48%" >
-<br>
-
 ![](https://github-readme-stats.vercel.app/api?username=bhavinondhiya&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bhavinondhiya&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavinondhiya&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
