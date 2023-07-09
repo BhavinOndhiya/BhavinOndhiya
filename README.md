@@ -20,6 +20,9 @@
 # My Tech Weapons
 https://skillicons.dev/icons?i=aws,c,cpp,docker,express,git,github,java,js,mongodb,nodejs,Graphdb,Neo4j,postman,,vscode&perline=3)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+
 <img src="https://skillicons.dev/icons?
 i=aws,c,cpp,docker,express,git,github,java,js,mongodb,nodejs,Graphdb,Neo4j,postman,,vscode" width="100%">
 
