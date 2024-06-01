@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinondhiya&label=Profile%20views&color=d400ff&style=flat" alt="bhavinondhiya" /> </p>
-<h1 align="center">Hi 👋, I'm Future SDE at Amazon , Mr. Bhavin Ondhiya 😄</h1>
+<h1 align="center">Hi 👋, I'm Future SDE at Amazon , Mr. Bhavin Ondhiya </h1>
 
 - 💻 I'm a extra influenced learner in Mern Stack Developement
 - 🤔 I’m Looking forward to explore around various projects in Mern Stack Developement
